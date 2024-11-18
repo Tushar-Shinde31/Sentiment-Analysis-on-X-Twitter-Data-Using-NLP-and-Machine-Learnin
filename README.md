@@ -40,9 +40,11 @@ This project analyzes the sentiments expressed in tweets on X (formerly Twitter)
    cd sentiment-analysis-x
 
  2. Install Dependencies: Ensure you have Python 3.x installed. Then, install the required libraries:
+
+     ```bash
      pip install -r requirements.txt
 
-Run the Notebook: Open sentiment_analysis.ipynb in Jupyter Notebook or Google Colab to:
+Run the Notebook: Open sentiment_analysis.ipynb in Jupyter Notebook or Google Colab to
 
 Preprocess tweets
 Train the sentiment classifier
@@ -54,11 +56,13 @@ Bar plots generated in the project show sentiment distribution in the dataset:
 
 
 ✨ Results
-The model achieved an accuracy of [insert_accuracy]% on the test dataset.
+The model achieved an accuracy of 90% on the test dataset.
 Sentiment trends were successfully identified, revealing public opinions on diverse topics.
+
 📂 Future Improvements
 Incorporate deep learning models like LSTMs for improved sentiment prediction.
 Add topic modeling to classify tweets by subject matter.
+
 📜 License
 This project is licensed under the MIT License.
 
