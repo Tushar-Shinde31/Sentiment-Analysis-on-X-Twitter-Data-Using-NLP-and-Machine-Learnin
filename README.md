@@ -65,5 +65,4 @@ This project is licensed under the MIT License.
 🤝 Contributing
 Feel free to contribute! Fork the repository, make your changes, and submit a pull request.
 
-✨ Author
-Your Name - Tushar Shinde
+✨ Author - Tushar Shinde✨
